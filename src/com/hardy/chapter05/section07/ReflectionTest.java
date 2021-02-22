@@ -8,7 +8,6 @@ import java.util.Scanner;
  * @author LiuWei
  * @version V1.0.0
  * @Package com.hardy.chapter05.section07
- * @Description: Copyright (c) Company:Genew Technologies Co., Ltd. 2005-2020
  * @create 2021-02-22 16:41
  */
 public class ReflectionTest
